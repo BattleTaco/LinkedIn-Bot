@@ -1,0 +1,2525 @@
+./logs/02-Apr-24 01:12:08::__main__::INFO::{'phone_number': 8328369584, 'profile_path': '', 'positions': ['Data Scientist', 'Machine Learning Engineer'], 'locations': ['United States', 'Remote'], 'experience_level': ['Entry Level', 'Associate'], 'job_type': ['Full-time'], 'salary': 95000, 'rate': 45, 'uploads': {'Resume': 'C:\\Users\\michaelramirez\\Documents\\Michael Ramirez Resume.pdf'}, 'output_filename': ['output.csv']}
+./logs/02-Apr-24 01:12:08::__main__::INFO::Welcome to Easy Apply Bot
+./logs/02-Apr-24 01:12:08::__main__::INFO::current directory is : /Users/michaelramirez/Robot/LinkedIn-Easy-Apply-Bot
+./logs/02-Apr-24 01:12:08::__main__::INFO::120 jobIDs found
+./logs/02-Apr-24 01:12:12::__main__::INFO::Logging in.....Please wait :)  
+./logs/02-Apr-24 01:12:41::__main__::INFO::Applying to Data Scientist: Remote
+./logs/02-Apr-24 01:12:41::__main__::INFO::Looking for jobs.. Please wait..
+./logs/02-Apr-24 01:12:45::__main__::INFO::Loading next job page?
+./logs/02-Apr-24 01:12:53::__main__::INFO::Looking for jobs.. Please wait..
+./logs/02-Apr-24 01:12:53::__main__::INFO::59.0 minutes left in this search
+./logs/02-Apr-24 01:12:53::__main__::DEBUG::Sleeping for 2.4
+./logs/02-Apr-24 01:13:06::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:13:06::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:13:10::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:13:10::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:13:10::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:13:10::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.07891EB9B323C3F4B68957EC2C1FC003.e.387")>
+./logs/02-Apr-24 01:13:12::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:13:14::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:13:14::__main__::INFO::
+Position 3877253349:
+ (4) Data Scientist | Globant | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:13:14::__main__::INFO::Applied to 3877253349
+./logs/02-Apr-24 01:13:21::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:13:21::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:13:25::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:13:25::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:13:25::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:13:25::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.EF6C118147E9DDAD0A0E457E006984CC.e.478")>
+./logs/02-Apr-24 01:13:28::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:13:29::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:13:34::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:13:35::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:13:35::__main__::INFO::
+Position 3876923568:
+ (4) Data Scientist | TeamSoft | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:13:35::__main__::INFO::Applied to 3876923568
+./logs/02-Apr-24 01:13:43::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:13:43::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:13:47::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:13:47::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:13:47::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:13:47::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.D247932010A5CC1E46CCA2624D7C9082.e.572")>
+./logs/02-Apr-24 01:13:49::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:13:51::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:13:51::__main__::INFO::
+Position 3813126614:
+ (4) Decision Scientist | Burtch Works | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:13:51::__main__::INFO::Applied to 3813126614
+./logs/02-Apr-24 01:13:52::__main__::INFO::Loading next job page?
+./logs/02-Apr-24 01:14:01::__main__::INFO::58.0 minutes left in this search
+./logs/02-Apr-24 01:14:01::__main__::DEBUG::Sleeping for 2.8
+./logs/02-Apr-24 01:14:15::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:14:15::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:14:19::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:14:19::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:14:19::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:14:19::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.2496C71F29D78F3F72FCD51D5094FF1D.e.808")>
+./logs/02-Apr-24 01:14:21::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:14:26::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:14:28::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:14:33::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:14:34::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:14:39::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:14:40::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:14:45::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:14:46::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:14:51::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:14:52::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:14:58::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:14:59::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:15:04::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:15:05::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:15:10::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:15:11::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:15:17::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:15:18::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:15:23::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:15:24::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:15:25::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:15:25::__main__::INFO::
+Position 3860589455:
+ (4) Data Scientist- Recommendation Engine | Lawrence Harvey | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:15:25::__main__::INFO::Applied to 3860589455
+./logs/02-Apr-24 01:15:34::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:15:34::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:15:38::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:15:38::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:15:38::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:15:38::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.259D91B9C672A897FEFAECADB00CF55B.e.919")>
+./logs/02-Apr-24 01:15:40::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:15:45::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:15:49::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:15:50::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:15:50::__main__::INFO::
+Position 3844230451:
+ (4) Machine learning (product) Engineer | Autonomi Labs | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:15:50::__main__::INFO::Applied to 3844230451
+./logs/02-Apr-24 01:15:57::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:15:57::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:16:01::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:16:01::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:16:01::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:16:01::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.F83CEF85C709C244D1D463AE8AFA9F40.e.1006")>
+./logs/02-Apr-24 01:16:01::__main__::ERROR::'Cover Letter'
+./logs/02-Apr-24 01:16:01::__main__::ERROR::cannot apply to this job
+./logs/02-Apr-24 01:16:01::__main__::INFO::
+Position 3869955204:
+ (4) Associate Actuarial Data Scientist [Remote] | Quanata | LinkedIn 
+ *Did not apply: Failed to send Resume 
+
+./logs/02-Apr-24 01:16:01::__main__::INFO::Failed to apply to 3869955204
+./logs/02-Apr-24 01:16:08::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:16:08::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:16:10::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:16:10::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:16:10::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:16:10::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.032E77EC4CC1D542D058D07078AF83BF.e.1061")>
+./logs/02-Apr-24 01:16:10::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:16:11::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:16:11::__main__::INFO::
+Position 3830363043:
+ (4) Senior Data Scientist | Storm4 | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:16:11::__main__::INFO::Applied to 3830363043
+./logs/02-Apr-24 01:16:19::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:16:19::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:16:22::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:16:22::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:16:22::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:16:22::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.7C64CDC7DC4D7D4E77BE8193818DCEA9.e.1128")>
+./logs/02-Apr-24 01:16:24::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:16:25::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:16:25::__main__::INFO::
+Position 3862131159:
+ (4) Senior Statistical Data Scientist | Prime Team Partners | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:16:25::__main__::INFO::Applied to 3862131159
+./logs/02-Apr-24 01:16:33::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:16:33::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:16:36::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:16:36::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:16:36::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:16:36::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.3706BB64B9B354A16D04CD41DB94B663.e.1209")>
+./logs/02-Apr-24 01:16:40::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:16:41::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:16:41::__main__::INFO::
+Position 3859295515:
+ (4) Data Scientist | Interactive Resources - iR | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:16:41::__main__::INFO::Applied to 3859295515
+./logs/02-Apr-24 01:16:48::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:16:48::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:16:51::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:16:51::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:16:51::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:16:51::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.F4A77427A453979FDD0C2D347AADF685.e.1289")>
+./logs/02-Apr-24 01:16:51::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:16:52::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:16:52::__main__::INFO::
+Position 3866347906:
+ (4) Marketing, Data Scientist | Sud Recruiting | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:16:52::__main__::INFO::Applied to 3866347906
+./logs/02-Apr-24 01:17:00::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:17:00::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:17:03::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:17:03::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:17:03::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:17:03::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.5CB815A3D51CFF823678CF98E67A6459.e.1360")>
+./logs/02-Apr-24 01:17:06::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:17:07::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:17:07::__main__::INFO::
+Position 3231314683:
+ (4) Data Scientist | Burtch Works | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:17:07::__main__::INFO::Applied to 3231314683
+./logs/02-Apr-24 01:17:14::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:17:15::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:17:15::__main__::INFO::The Easy apply button does not exist.
+./logs/02-Apr-24 01:17:15::__main__::INFO::
+Position 3743889901:
+ (4) Senior ML Data Scientist ( NLP) | Press Ganey | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/02-Apr-24 01:17:15::__main__::INFO::Failed to apply to 3743889901
+./logs/02-Apr-24 01:17:17::__main__::INFO::Loading next job page?
+./logs/02-Apr-24 01:17:25::__main__::INFO::55.0 minutes left in this search
+./logs/02-Apr-24 01:17:25::__main__::DEBUG::Sleeping for 2.3
+./logs/02-Apr-24 01:17:41::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:17:41::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:17:45::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:17:45::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:17:45::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:17:45::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.8F8AA6AB981853B6E4DBEF7CBB5E1C1A.e.1635")>
+./logs/02-Apr-24 01:17:45::__main__::ERROR::'Cover Letter'
+./logs/02-Apr-24 01:17:45::__main__::ERROR::cannot apply to this job
+./logs/02-Apr-24 01:17:45::__main__::INFO::
+Position 3869955204:
+ (4) Associate Actuarial Data Scientist [Remote] | Quanata | LinkedIn 
+ *Did not apply: Failed to send Resume 
+
+./logs/02-Apr-24 01:17:45::__main__::INFO::Failed to apply to 3869955204
+./logs/02-Apr-24 01:17:48::__main__::INFO::Loading next job page?
+./logs/02-Apr-24 01:17:56::__main__::INFO::54.0 minutes left in this search
+./logs/02-Apr-24 01:17:56::__main__::DEBUG::Sleeping for 1.8
+./logs/02-Apr-24 01:18:10::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:18:10::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:18:13::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:18:13::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:18:13::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:18:13::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.96291FEA64EDC3EE25A804A95EEE515B.e.1836")>
+./logs/02-Apr-24 01:18:13::__main__::ERROR::'Cover Letter'
+./logs/02-Apr-24 01:18:13::__main__::ERROR::cannot apply to this job
+./logs/02-Apr-24 01:18:13::__main__::INFO::
+Position 3869955204:
+ (4) Associate Actuarial Data Scientist [Remote] | Quanata | LinkedIn 
+ *Did not apply: Failed to send Resume 
+
+./logs/02-Apr-24 01:18:13::__main__::INFO::Failed to apply to 3869955204
+./logs/02-Apr-24 01:18:21::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:18:21::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:18:24::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:18:24::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:18:24::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:18:24::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.93E753D0D7B340EB922CA6AE93CD6936.e.1900")>
+./logs/02-Apr-24 01:18:27::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:18:28::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:18:28::__main__::INFO::
+Position 3863619931:
+ (4) Data scientist | Quiddity Infotech LLC | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:18:28::__main__::INFO::Applied to 3863619931
+./logs/02-Apr-24 01:18:30::__main__::INFO::Loading next job page?
+./logs/02-Apr-24 01:18:38::__main__::INFO::54.0 minutes left in this search
+./logs/02-Apr-24 01:18:38::__main__::DEBUG::Sleeping for 2.3
+./logs/02-Apr-24 01:18:53::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:18:53::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:18:57::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:18:57::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:18:57::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:18:57::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.3D0C03C3B645E6CF21DB849910939CBD.e.2130")>
+./logs/02-Apr-24 01:18:58::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:18:59::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:18:59::__main__::INFO::
+Position 3856857462:
+ (4) ML Frameworks Engineer | Grid Dynamics | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:18:59::__main__::INFO::Applied to 3856857462
+./logs/02-Apr-24 01:19:07::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:19:07::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:19:10::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:19:10::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:19:10::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:19:10::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.6F1255968AD77DBC36AE65517CB6643C.e.2211")>
+./logs/02-Apr-24 01:19:10::__main__::ERROR::'Cover Letter'
+./logs/02-Apr-24 01:19:10::__main__::ERROR::cannot apply to this job
+./logs/02-Apr-24 01:19:10::__main__::INFO::
+Position 3869955204:
+ (4) Associate Actuarial Data Scientist [Remote] | Quanata | LinkedIn 
+ *Did not apply: Failed to send Resume 
+
+./logs/02-Apr-24 01:19:10::__main__::INFO::Failed to apply to 3869955204
+./logs/02-Apr-24 01:19:12::__main__::INFO::Loading next job page?
+./logs/02-Apr-24 01:19:21::__main__::INFO::53.0 minutes left in this search
+./logs/02-Apr-24 01:19:21::__main__::DEBUG::Sleeping for 1.6
+./logs/02-Apr-24 01:19:37::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:19:37::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:19:40::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:19:40::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:19:40::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:19:40::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.57BCA540EE847199FA9342B5E4358CB7.e.2412")>
+./logs/02-Apr-24 01:19:40::__main__::ERROR::'Cover Letter'
+./logs/02-Apr-24 01:19:40::__main__::ERROR::cannot apply to this job
+./logs/02-Apr-24 01:19:40::__main__::INFO::
+Position 3869955204:
+ (4) Associate Actuarial Data Scientist [Remote] | Quanata | LinkedIn 
+ *Did not apply: Failed to send Resume 
+
+./logs/02-Apr-24 01:19:40::__main__::INFO::Failed to apply to 3869955204
+./logs/02-Apr-24 01:19:43::__main__::INFO::Loading next job page?
+./logs/02-Apr-24 01:19:52::__main__::INFO::52.0 minutes left in this search
+./logs/02-Apr-24 01:19:52::__main__::DEBUG::Sleeping for 2.6
+./logs/02-Apr-24 01:20:06::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:20:06::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:20:10::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:20:10::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:20:10::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:20:10::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.7BB34EDFADEBFA2F104F958262CF4888.e.2688")>
+./logs/02-Apr-24 01:20:12::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:20:13::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:20:13::__main__::INFO::
+Position 3880919355:
+ (4) Data Scientist | BrickRed Systems | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:20:13::__main__::INFO::Applied to 3880919355
+./logs/02-Apr-24 01:20:23::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:20:23::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:20:26::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:20:26::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:20:26::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:20:26::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.34207FDC3EF140D7B8084D103DE55A87.e.2774")>
+./logs/02-Apr-24 01:20:29::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:20:30::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:20:30::__main__::INFO::
+Position 3880375120:
+ (4) Data Scientist | BDNT Labs Private Limited | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:20:30::__main__::INFO::Applied to 3880375120
+./logs/02-Apr-24 01:20:38::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:20:38::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:20:42::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:20:42::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:20:42::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:20:42::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.75D8FF12FF6EF294512882E3FB608F07.e.2863")>
+./logs/02-Apr-24 01:20:43::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:20:45::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:20:45::__main__::INFO::
+Position 3876214696:
+ (4) Research Engineer (Crypto Protocol) | Jobot | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:20:45::__main__::INFO::Applied to 3876214696
+./logs/02-Apr-24 01:20:54::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:20:54::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:20:58::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:20:58::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:20:58::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:20:58::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.C26315F290646D3F93F1EAD37CEA4C37.e.2941")>
+./logs/02-Apr-24 01:21:00::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:21:05::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:21:07::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:21:12::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:21:13::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:21:18::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:21:19::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:21:24::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:21:27::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:21:29::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:21:29::__main__::INFO::
+Position 3876959779:
+ (4) Data Scientist (Entry Level) | 24 Seven Talent | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:21:29::__main__::INFO::Applied to 3876959779
+./logs/02-Apr-24 01:21:39::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:21:39::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:21:43::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:21:43::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:21:43::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:21:43::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.F26782109A440BDA0B8FE71EEAACD3E7.e.3065")>
+./logs/02-Apr-24 01:21:44::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:21:45::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:21:45::__main__::INFO::
+Position 3838148599:
+ (4) Data Scientist | Quantum World Technologies Inc. | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:21:45::__main__::INFO::Applied to 3838148599
+./logs/02-Apr-24 01:21:54::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:21:54::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:21:59::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:22:04::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:22:05::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:22:05::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:22:05::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:22:05::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.73292D1DA2AB27E2E530E24858E31F28.e.3164")>
+./logs/02-Apr-24 01:22:07::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:22:12::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:22:13::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:22:18::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:22:19::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:22:24::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:22:27::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:22:32::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:22:33::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:22:38::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:22:39::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:22:44::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:22:46::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:22:51::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:22:53::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:22:54::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:22:54::__main__::INFO::
+Position 3876929340:
+ (4) Data Scientist | Kaufman Hall | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:22:54::__main__::INFO::Applied to 3876929340
+./logs/02-Apr-24 01:23:01::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:23:01::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:23:05::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:23:05::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:23:05::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:23:05::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.7C2F02424A8A3D2B381ADB57DFA04948.e.3361")>
+./logs/02-Apr-24 01:23:07::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:23:12::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:23:13::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:23:18::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:23:19::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:23:24::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:23:25::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:23:26::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:23:26::__main__::INFO::
+Position 3846930752:
+ (4) Data Scientist - Healthcare Claims Payment Integrity | Analytic Recruiting Inc. | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:23:26::__main__::INFO::Applied to 3846930752
+./logs/02-Apr-24 01:23:34::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:23:34::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:23:37::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:23:37::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:23:37::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:23:37::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.98B052329EBC464457613DE100E7B9F7.e.3460")>
+./logs/02-Apr-24 01:23:38::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:23:39::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:23:39::__main__::INFO::
+Position 3876214704:
+ (4) Research Engineer (Crypto Protocol) | Jobot | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:23:39::__main__::INFO::Applied to 3876214704
+./logs/02-Apr-24 01:23:46::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:23:46::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:23:50::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:23:50::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:23:50::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:23:50::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.5D6C1533C68A27AF541BD5E39F8B3D49.e.3538")>
+./logs/02-Apr-24 01:23:53::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:23:54::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:23:54::__main__::INFO::
+Position 3876933975:
+ (4) Senior Data Scientist | Cypress HCM | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:23:54::__main__::INFO::Applied to 3876933975
+./logs/02-Apr-24 01:24:01::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:24:02::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:24:05::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:24:05::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:24:05::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:24:05::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.DBAE262E7A2D02C2C3763A41E9CD4336.e.3626")>
+./logs/02-Apr-24 01:24:07::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:24:08::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:24:08::__main__::INFO::
+Position 3876217260:
+ (4) Quantitative Developer | Jobot | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:24:08::__main__::INFO::Applied to 3876217260
+./logs/02-Apr-24 01:24:15::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:24:15::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:24:19::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:24:19::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:24:19::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:24:19::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.D8E0BD47E96476585C7D06C55D1CD708.e.3710")>
+./logs/02-Apr-24 01:24:23::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:24:25::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:24:25::__main__::INFO::
+Position 3878514175:
+ (4) Data Scientist | Accroid Inc | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:24:25::__main__::INFO::Applied to 3878514175
+./logs/02-Apr-24 01:24:32::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:24:32::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:24:36::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:24:36::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:24:36::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:24:36::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.65F889E201D1F462696217EA293026A1.e.3802")>
+./logs/02-Apr-24 01:24:38::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:24:39::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:24:39::__main__::INFO::
+Position 3875261785:
+ (4) Lead Data Scientist - Remote - B2B SaaS | Jobot | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:24:39::__main__::INFO::Applied to 3875261785
+./logs/02-Apr-24 01:24:46::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:24:46::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:24:51::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:24:56::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:24:57::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:25:02::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:25:03::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:25:08::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:25:10::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:25:10::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:25:10::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:25:10::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.4EDF61D50F4CF761CE983C57AC88EA2C.e.3904")>
+./logs/02-Apr-24 01:25:12::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:25:13::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:25:18::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:25:19::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:25:19::__main__::INFO::
+Position 3859043348:
+ (4) Data Scientist - Life Sciences | Zifo | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:25:19::__main__::INFO::Applied to 3859043348
+./logs/02-Apr-24 01:25:27::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:25:27::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:25:29::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:25:29::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:25:29::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:25:29::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.C2B1BBB8A38B7B1DA7C64BF33C1E0840.e.3993")>
+./logs/02-Apr-24 01:25:29::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:25:31::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:25:31::__main__::INFO::
+Position 3880913518:
+ (4) Marketing Data Scientist | Harnham | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:25:31::__main__::INFO::Applied to 3880913518
+./logs/02-Apr-24 01:25:38::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:25:38::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:25:41::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:25:41::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:25:41::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:25:41::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.4E2EE42136F88FEB5C92E4B3997FA6C4.e.4068")>
+./logs/02-Apr-24 01:25:43::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:25:44::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:25:44::__main__::INFO::
+Position 3880904787:
+ (4) Staff Data Scientist (LLMs) | Deep Aba | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:25:44::__main__::INFO::Applied to 3880904787
+./logs/02-Apr-24 01:25:51::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:25:51::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:25:54::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:25:54::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:25:54::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:25:54::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.B9EF764D97859390A3CAC1949A0DD961.e.4150")>
+./logs/02-Apr-24 01:25:57::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:25:58::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:25:58::__main__::INFO::
+Position 3876444103:
+ (4) Data Scientist (AI) | M Science | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:25:58::__main__::INFO::Applied to 3876444103
+./logs/02-Apr-24 01:26:05::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:26:05::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:26:09::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:26:09::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:26:09::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:26:09::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.66DEF5D8714A0B949F0EE9DA2D9A9911.e.4228")>
+./logs/02-Apr-24 01:26:11::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:26:16::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:26:18::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:26:19::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:26:19::__main__::INFO::
+Position 3880290962:
+ (4) Data Scientist (Machine Learning) | Prodware Solutions | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:26:19::__main__::INFO::Applied to 3880290962
+./logs/02-Apr-24 01:26:26::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:26:26::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:26:29::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:26:29::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:26:29::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:26:29::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.D0B01C049A69D4A2BE156580517D201F.e.4326")>
+./logs/02-Apr-24 01:26:31::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:26:33::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:26:33::__main__::INFO::
+Position 3876482147:
+ (4) Data Scientist | WaferWire Cloud Technologies | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:26:33::__main__::INFO::Applied to 3876482147
+./logs/02-Apr-24 01:26:39::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:26:39::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:26:43::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:26:43::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:26:43::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:26:43::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.A831CA233CB3DB173D15DC1C1D09D018.e.4411")>
+./logs/02-Apr-24 01:26:45::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:26:50::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:26:53::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:26:54::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:26:59::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:27:00::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:27:00::__main__::INFO::
+Position 3846935046:
+ (4) Founding AI Engineer | In Technology Group Inc (US) | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:27:00::__main__::INFO::Applied to 3846935046
+./logs/02-Apr-24 01:27:07::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:27:07::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:27:11::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:27:11::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:27:11::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:27:11::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.7A2779EBB7D06636895136F524AAF1B5.e.4497")>
+./logs/02-Apr-24 01:27:13::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:27:18::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:27:19::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:27:24::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:27:25::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:27:30::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:27:31::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:27:37::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:27:38::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:27:43::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:27:44::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:27:49::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:27:51::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:27:52::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:27:52::__main__::INFO::
+Position 3876420627:
+ (4) Sr. to Lead Data Scientist - AML / Anti-Money Laundering | Skyrocket Ventures | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:27:52::__main__::INFO::Applied to 3876420627
+./logs/02-Apr-24 01:27:59::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:27:59::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:28:02::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:28:02::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:28:02::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:28:02::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.AF860B70B55A7907555ADB03D3500B8F.e.4589")>
+./logs/02-Apr-24 01:28:05::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:28:10::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:28:11::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:28:16::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:28:18::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:28:19::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:28:19::__main__::INFO::
+Position 3864597200:
+ (4) Data Science Manager H1B No Problem Direct Hire Fortune 100 co w great benefits salary up to 135K | Confidential | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:28:19::__main__::INFO::Applied to 3864597200
+./logs/02-Apr-24 01:28:20::__main__::INFO::Loading next job page?
+./logs/02-Apr-24 01:28:29::__main__::INFO::44.0 minutes left in this search
+./logs/02-Apr-24 01:28:29::__main__::DEBUG::Sleeping for 2.6
+./logs/02-Apr-24 01:28:41::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:28:41::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:28:44::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:28:44::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:28:44::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:28:44::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.7692DCA8EF24F33562D22B639CDA607F.e.4822")>
+./logs/02-Apr-24 01:28:46::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:28:51::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:28:52::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:28:58::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:29:01::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:29:02::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:29:07::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:29:09::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:29:09::__main__::INFO::
+Position 3831150502:
+ (4) Senior Machine Learning Data Scientist - 100% Remote | Burtch Works | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:29:09::__main__::INFO::Applied to 3831150502
+./logs/02-Apr-24 01:29:16::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:29:16::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:29:19::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:29:19::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:29:19::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:29:19::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.0CF0FBAF9FF5BFD6C2275022A204125A.e.4930")>
+./logs/02-Apr-24 01:29:19::__main__::ERROR::'Cover Letter'
+./logs/02-Apr-24 01:29:19::__main__::ERROR::cannot apply to this job
+./logs/02-Apr-24 01:29:19::__main__::INFO::
+Position 3869955204:
+ (4) Associate Actuarial Data Scientist [Remote] | Quanata | LinkedIn 
+ *Did not apply: Failed to send Resume 
+
+./logs/02-Apr-24 01:29:19::__main__::INFO::Failed to apply to 3869955204
+./logs/02-Apr-24 01:29:20::__main__::INFO::Loading next job page?
+./logs/02-Apr-24 01:29:29::__main__::INFO::43.0 minutes left in this search
+./logs/02-Apr-24 01:29:29::__main__::DEBUG::Sleeping for 2.1
+./logs/02-Apr-24 01:29:41::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:29:41::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:29:46::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:29:51::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:29:53::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:29:53::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:29:53::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:29:53::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.7700A9B48ED0BA37C8F1CFE6FF972DFB.e.5162")>
+./logs/02-Apr-24 01:29:56::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:30:01::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:30:02::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:30:07::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:30:08::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:30:14::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:30:15::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:30:20::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:30:21::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:30:26::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:30:27::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:30:32::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:30:34::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:30:39::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:30:40::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:30:45::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:30:46::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:30:51::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:30:53::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:30:58::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:30:59::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:31:04::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:31:05::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:31:10::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:31:12::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:31:13::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:31:18::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:31:19::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:31:19::__main__::INFO::
+Position 3864506869:
+ (5) Senior Machine Learning Engineer | Perceptyx | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:31:19::__main__::INFO::Applied to 3864506869
+./logs/02-Apr-24 01:31:22::__main__::INFO::Loading next job page?
+./logs/02-Apr-24 01:31:32::__main__::INFO::41.0 minutes left in this search
+./logs/02-Apr-24 01:31:32::__main__::DEBUG::Sleeping for 2.6
+./logs/02-Apr-24 01:31:46::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:31:46::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:31:49::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:31:49::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:31:49::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:31:49::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.F99D4FB5762D46268C90E33A25D40F0D.e.5529")>
+./logs/02-Apr-24 01:31:52::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:31:53::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:31:53::__main__::INFO::
+Position 3844319823:
+ (5) AI Lead [28157] | Stealth | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:31:53::__main__::INFO::Applied to 3844319823
+./logs/02-Apr-24 01:32:01::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:32:01::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:32:05::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:32:05::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:32:05::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:32:05::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.7E45C59FAA5351AD2FF95FE886810A28.e.5621")>
+./logs/02-Apr-24 01:32:05::__main__::ERROR::'Cover Letter'
+./logs/02-Apr-24 01:32:05::__main__::ERROR::cannot apply to this job
+./logs/02-Apr-24 01:32:05::__main__::INFO::
+Position 3865698147:
+ (5) Research Engineer - Machine Learning | Cloudflare | LinkedIn 
+ *Did not apply: Failed to send Resume 
+
+./logs/02-Apr-24 01:32:05::__main__::INFO::Failed to apply to 3865698147
+./logs/02-Apr-24 01:32:13::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:32:13::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:32:17::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:32:23::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:32:24::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:32:29::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:32:31::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:32:31::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:32:31::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:32:31::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.EDDF164F5FA7F337C2E56926640CA5D6.e.5684")>
+./logs/02-Apr-24 01:32:31::__main__::ERROR::'Cover Letter'
+./logs/02-Apr-24 01:32:31::__main__::ERROR::cannot apply to this job
+./logs/02-Apr-24 01:32:31::__main__::INFO::
+Position 3797303771:
+ (5) Senior Data Scientist | Upstart | LinkedIn 
+ *Did not apply: Failed to send Resume 
+
+./logs/02-Apr-24 01:32:31::__main__::INFO::Failed to apply to 3797303771
+./logs/02-Apr-24 01:32:39::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:32:39::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:32:43::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:32:43::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:32:43::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:32:43::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.ADD660B9AD476AF264383BEA75196E7E.e.5741")>
+./logs/02-Apr-24 01:32:45::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:32:50::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:32:53::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:32:54::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:32:54::__main__::INFO::
+Position 3870338805:
+ (5) Data Scientist | Hyqoo | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:32:54::__main__::INFO::Applied to 3870338805
+./logs/02-Apr-24 01:33:01::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:33:02::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:33:05::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:33:05::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:33:05::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:33:05::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.D4C48049EA355D335664DDBA4F86A12C.e.5831")>
+./logs/02-Apr-24 01:33:05::__main__::ERROR::'Cover Letter'
+./logs/02-Apr-24 01:33:05::__main__::ERROR::cannot apply to this job
+./logs/02-Apr-24 01:33:05::__main__::INFO::
+Position 3818094918:
+ (5) Machine Learning Engineer | Movable Ink | LinkedIn 
+ *Did not apply: Failed to send Resume 
+
+./logs/02-Apr-24 01:33:05::__main__::INFO::Failed to apply to 3818094918
+./logs/02-Apr-24 01:33:12::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:33:12::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:33:16::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:33:16::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:33:16::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:33:16::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.89ACE224C69FB320E9F3E862EDE42D2A.e.5905")>
+./logs/02-Apr-24 01:33:19::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:33:20::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:33:20::__main__::INFO::
+Position 3830138922:
+ (5) Data Scientist | ACS Consultancy Services, Inc | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:33:20::__main__::INFO::Applied to 3830138922
+./logs/02-Apr-24 01:33:22::__main__::INFO::Loading next job page?
+./logs/02-Apr-24 01:33:30::__main__::INFO::39.0 minutes left in this search
+./logs/02-Apr-24 01:33:30::__main__::DEBUG::Sleeping for 2.1
+./logs/02-Apr-24 01:33:42::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:33:42::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:33:46::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:33:46::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:33:46::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:33:46::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.E8DE537D5A7C358F7A40B91FB402883C.e.6141")>
+./logs/02-Apr-24 01:33:46::__main__::ERROR::'Cover Letter'
+./logs/02-Apr-24 01:33:46::__main__::ERROR::cannot apply to this job
+./logs/02-Apr-24 01:33:46::__main__::INFO::
+Position 3869955204:
+ (5) Associate Actuarial Data Scientist [Remote] | Quanata | LinkedIn 
+ *Did not apply: Failed to send Resume 
+
+./logs/02-Apr-24 01:33:46::__main__::INFO::Failed to apply to 3869955204
+./logs/02-Apr-24 01:33:47::__main__::INFO::Loading next job page?
+./logs/02-Apr-24 01:33:56::__main__::INFO::38.0 minutes left in this search
+./logs/02-Apr-24 01:33:56::__main__::DEBUG::Sleeping for 2.1
+./logs/02-Apr-24 01:34:09::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:34:09::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:34:13::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:34:13::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:34:13::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:34:13::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.F94A3A3DCA7A84B181DB220613ED14E9.e.6430")>
+./logs/02-Apr-24 01:34:13::__main__::ERROR::'Cover Letter'
+./logs/02-Apr-24 01:34:13::__main__::ERROR::cannot apply to this job
+./logs/02-Apr-24 01:34:13::__main__::INFO::
+Position 3865698147:
+ (5) Research Engineer - Machine Learning | Cloudflare | LinkedIn 
+ *Did not apply: Failed to send Resume 
+
+./logs/02-Apr-24 01:34:13::__main__::INFO::Failed to apply to 3865698147
+./logs/02-Apr-24 01:34:20::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:34:20::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:34:23::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:34:23::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:34:23::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:34:23::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.F29E1C43FFE04DED96A7CEA42AB97A92.e.6497")>
+./logs/02-Apr-24 01:34:23::__main__::ERROR::'Cover Letter'
+./logs/02-Apr-24 01:34:23::__main__::ERROR::cannot apply to this job
+./logs/02-Apr-24 01:34:23::__main__::INFO::
+Position 3818094918:
+ (5) Machine Learning Engineer | Movable Ink | LinkedIn 
+ *Did not apply: Failed to send Resume 
+
+./logs/02-Apr-24 01:34:23::__main__::INFO::Failed to apply to 3818094918
+./logs/02-Apr-24 01:34:30::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:34:30::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:34:34::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:34:39::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:34:41::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:34:46::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:34:47::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:34:52::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:34:54::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:34:54::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:34:54::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:34:54::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.F602F95D6FE38EBA6A88ED0B0E3C21A8.e.6561")>
+./logs/02-Apr-24 01:34:54::__main__::ERROR::'Cover Letter'
+./logs/02-Apr-24 01:34:54::__main__::ERROR::cannot apply to this job
+./logs/02-Apr-24 01:34:54::__main__::INFO::
+Position 3797303771:
+ (5) Senior Data Scientist | Upstart | LinkedIn 
+ *Did not apply: Failed to send Resume 
+
+./logs/02-Apr-24 01:34:54::__main__::INFO::Failed to apply to 3797303771
+./logs/02-Apr-24 01:34:56::__main__::INFO::Loading next job page?
+./logs/02-Apr-24 01:35:05::__main__::INFO::37.0 minutes left in this search
+./logs/02-Apr-24 01:35:05::__main__::DEBUG::Sleeping for 1.7
+./logs/02-Apr-24 01:35:18::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:35:18::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:35:22::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:35:22::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:35:22::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:35:22::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.CAA3C406F4DDD36B5F7A39F7BE6BE2C1.e.6949")>
+./logs/02-Apr-24 01:35:23::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:35:24::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:35:24::__main__::INFO::
+Position 3877203633:
+ (5) Systems Analyst/Developer | Jobot | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:35:24::__main__::INFO::Applied to 3877203633
+./logs/02-Apr-24 01:35:26::__main__::INFO::Loading next job page?
+./logs/02-Apr-24 01:35:35::__main__::INFO::37.0 minutes left in this search
+./logs/02-Apr-24 01:35:35::__main__::DEBUG::Sleeping for 2.2
+./logs/02-Apr-24 01:35:41::__main__::INFO::37.0 minutes left in this search
+./logs/02-Apr-24 01:35:41::__main__::DEBUG::Sleeping for 2.7
+./logs/02-Apr-24 01:35:46::__main__::INFO::36.0 minutes left in this search
+./logs/02-Apr-24 01:35:46::__main__::DEBUG::Sleeping for 1.9
+./logs/02-Apr-24 01:35:51::__main__::DEBUG::Job ID not found, search keyword found instead? Senior Machine Learning Engineer
+Houghton Mifflin Harcourt
+United States (Remote)
+$110K/yr - $135K/yr
+23 school alumni work here
+Promoted
+./logs/02-Apr-24 01:35:51::__main__::DEBUG::Job ID not found, search keyword found instead? Security Engineer
+Salt
+United States (Remote)
+$140K/yr - $150K/yr
+Promoted
+Easy Apply
+./logs/02-Apr-24 01:35:51::__main__::DEBUG::Job ID not found, search keyword found instead? Senior AI/ML Developer
+ECI Software Solutions
+St Louis, MO (Remote)
+13 school alumni work here
+Promoted
+12 applicants
+./logs/02-Apr-24 01:35:51::__main__::DEBUG::Job ID not found, search keyword found instead? Data Scientist - Generative AI - Remote
+Mayo Clinic
+Rochester, MN (Remote)
+$164.0K/yr - $237.8K/yr
+1,172 school alumni work here
+4 days ago
+./logs/02-Apr-24 01:35:51::__main__::DEBUG::Job ID not found, search keyword found instead? Machine Learning Engineer, Training Infrastructure
+Runway
+United States (Remote)
+3 days ago
+./logs/02-Apr-24 01:35:51::__main__::DEBUG::Job ID not found, search keyword found instead? Senior Backend Engineer (Java)
+Intellibus
+Manhattan, NY (Remote)
+Applicant review time is typically 2 days
+5 hours ago
+Within the past 24 hours
+Easy Apply
+./logs/02-Apr-24 01:35:51::__main__::DEBUG::Job ID not found, search keyword found instead? System Analyst
+Motion Recruitment
+Tempe, AZ (Remote)
+$40/hr - $45/hr
+2 school alumni work here
+Promoted
+Easy Apply
+./logs/02-Apr-24 01:35:51::__main__::DEBUG::Job ID not found, search keyword found instead? System Analyst
+Acro Service Corp
+United States (Remote)
+$50/hr - $70/hr
+Promoted
+Easy Apply
+./logs/02-Apr-24 01:35:51::__main__::DEBUG::Job ID not found, search keyword found instead? System Analyst
+Aditi Consulting
+Minnesota, United States (Remote)
+1 school alum works here
+Promoted
+Easy Apply
+./logs/02-Apr-24 01:35:58::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:35:58::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:36:03::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:36:08::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:36:09::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:36:09::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:36:09::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:36:09::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.EB80FC6BB97D5C76528AD0ADC2C4BDD8.e.7355")>
+./logs/02-Apr-24 01:36:09::__main__::ERROR::'Cover Letter'
+./logs/02-Apr-24 01:36:09::__main__::ERROR::cannot apply to this job
+./logs/02-Apr-24 01:36:09::__main__::INFO::
+Position 3797303771:
+ (5) Senior Data Scientist | Upstart | LinkedIn 
+ *Did not apply: Failed to send Resume 
+
+./logs/02-Apr-24 01:36:09::__main__::INFO::Failed to apply to 3797303771
+./logs/02-Apr-24 01:36:15::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:36:15::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:36:19::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:36:19::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:36:19::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:36:19::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.09E24E255908CD41F0C8316050D6A0D2.e.7416")>
+./logs/02-Apr-24 01:36:22::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:36:23::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:36:23::__main__::INFO::
+Position 3864297032:
+ (5) Data Scientist | eStaffing Inc. | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:36:23::__main__::INFO::Applied to 3864297032
+./logs/02-Apr-24 01:36:30::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:36:30::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:36:33::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:36:33::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:36:33::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:36:33::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.DCB894A1D2280D96BD342BCA89CC5D5E.e.7508")>
+./logs/02-Apr-24 01:36:36::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:36:37::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:36:37::__main__::INFO::
+Position 3843689990:
+ (5) Data Scientist | Hyqoo | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:36:37::__main__::INFO::Applied to 3843689990
+./logs/02-Apr-24 01:36:44::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:36:44::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:36:47::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:36:47::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:36:47::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:36:47::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.5D2C439F4A47269A1355D3C40A1122B3.e.7591")>
+./logs/02-Apr-24 01:36:49::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:36:54::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:36:56::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:37:01::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:37:02::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:37:07::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:37:08::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:37:13::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:37:14::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:37:19::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:37:20::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:37:25::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:37:26::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:37:32::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:37:33::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:37:38::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:37:39::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:37:44::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:37:46::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:37:47::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:37:52::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:37:53::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:37:53::__main__::INFO::
+Position 3873105516:
+ (5) Data Engineer / Scientist - for New University Grads (Small, Fun Team 🤓) | Validate Health | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:37:53::__main__::INFO::Applied to 3873105516
+./logs/02-Apr-24 01:38:00::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:38:00::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:38:04::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:38:04::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:38:04::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:38:04::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.527FBB576FB02011F4E8C982715B9D4C.e.7752")>
+./logs/02-Apr-24 01:38:07::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:38:08::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:38:08::__main__::INFO::
+Position 3746282921:
+ (5) W2 only - Remote work - Need Data Scientist with SAS Viya experience | Steneral Consulting | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:38:08::__main__::INFO::Applied to 3746282921
+./logs/02-Apr-24 01:38:10::__main__::INFO::Loading next job page?
+./logs/02-Apr-24 01:38:18::__main__::INFO::34.0 minutes left in this search
+./logs/02-Apr-24 01:38:18::__main__::DEBUG::Sleeping for 2.5
+./logs/02-Apr-24 01:38:31::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:38:31::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:38:34::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:38:34::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:38:34::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:38:34::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.F96F4348C3F9678E8710F4AFFB56A991.e.7983")>
+./logs/02-Apr-24 01:38:35::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:38:36::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:38:36::__main__::INFO::
+Position 3853428764:
+ (5) ML Platform Engineer [28207] | Stealth | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:38:36::__main__::INFO::Applied to 3853428764
+./logs/02-Apr-24 01:38:43::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:38:43::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:38:47::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:38:47::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:38:47::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:38:47::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.28950B6579CEA3BA7DC37739F1C71BEF.e.8068")>
+./logs/02-Apr-24 01:38:47::__main__::ERROR::'Cover Letter'
+./logs/02-Apr-24 01:38:47::__main__::ERROR::cannot apply to this job
+./logs/02-Apr-24 01:38:47::__main__::INFO::
+Position 3869955204:
+ (5) Associate Actuarial Data Scientist [Remote] | Quanata | LinkedIn 
+ *Did not apply: Failed to send Resume 
+
+./logs/02-Apr-24 01:38:47::__main__::INFO::Failed to apply to 3869955204
+./logs/02-Apr-24 01:38:54::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:38:54::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:38:57::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:38:57::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:38:57::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:38:57::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.B7F389D33CBB1BBC4B317E7FD5D5DEBE.e.8130")>
+./logs/02-Apr-24 01:39:00::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:39:01::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:39:01::__main__::INFO::
+Position 3868172601:
+ (5) AI Engineer | Harnham | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:39:01::__main__::INFO::Applied to 3868172601
+./logs/02-Apr-24 01:39:08::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:39:08::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:39:12::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:39:12::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:39:12::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:39:12::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.E1E5126035D072965474B3900C46DF9C.e.8214")>
+./logs/02-Apr-24 01:39:14::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:39:19::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:39:21::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/02-Apr-24 01:39:26::__main__::INFO::Skipping application
+./logs/02-Apr-24 01:39:28::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:39:29::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:39:29::__main__::INFO::
+Position 3864591920:
+ (5) PHD Data Scientist H1B Welcome Direct Hire Fortune 100 Co Salary up to $135K+10% Bonus H1 Sponsorship NO PROBLEM | Confidential | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:39:29::__main__::INFO::Applied to 3864591920
+./logs/02-Apr-24 01:39:31::__main__::INFO::Loading next job page?
+./logs/02-Apr-24 01:39:39::__main__::INFO::33.0 minutes left in this search
+./logs/02-Apr-24 01:39:39::__main__::DEBUG::Sleeping for 1.7
+./logs/02-Apr-24 01:39:52::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:39:52::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:39:54::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:39:54::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:39:54::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:39:54::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.5AA7D615AEC1002785D90E600B855B4A.e.8507")>
+./logs/02-Apr-24 01:39:55::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:39:56::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:39:56::__main__::INFO::
+Position 3675102577:
+ (5) Founding Software Engineer (Generative AI) | Greylock | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:39:56::__main__::INFO::Applied to 3675102577
+./logs/02-Apr-24 01:39:57::__main__::INFO::Loading next job page?
+./logs/02-Apr-24 01:40:05::__main__::INFO::32.0 minutes left in this search
+./logs/02-Apr-24 01:40:05::__main__::DEBUG::Sleeping for 2.0
+./logs/02-Apr-24 01:40:18::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:40:18::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:40:22::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:40:22::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:40:22::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:40:22::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.4853589C20B676A00E4C9DFCD7961846.e.8714")>
+./logs/02-Apr-24 01:40:22::__main__::ERROR::'Cover Letter'
+./logs/02-Apr-24 01:40:22::__main__::ERROR::cannot apply to this job
+./logs/02-Apr-24 01:40:22::__main__::INFO::
+Position 3869955204:
+ (5) Associate Actuarial Data Scientist [Remote] | Quanata | LinkedIn 
+ *Did not apply: Failed to send Resume 
+
+./logs/02-Apr-24 01:40:22::__main__::INFO::Failed to apply to 3869955204
+./logs/02-Apr-24 01:40:25::__main__::INFO::Loading next job page?
+./logs/02-Apr-24 01:40:33::__main__::INFO::32.0 minutes left in this search
+./logs/02-Apr-24 01:40:33::__main__::DEBUG::Sleeping for 1.5
+./logs/02-Apr-24 01:40:46::__main__::DEBUG::Easy Apply button not found
+./logs/02-Apr-24 01:40:46::__main__::INFO::Clicking the EASY apply button
+./logs/02-Apr-24 01:40:50::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010268841c chromedriver + 4326428
+1   chromedriver                        0x00000001026808e4 chromedriver + 4294884
+2   chromedriver                        0x00000001022ac088 chromedriver + 278664
+3   chromedriver                        0x00000001022e8268 chromedriver + 524904
+4   chromedriver                        0x00000001022e4dd0 chromedriver + 511440
+5   chromedriver                        0x00000001023274f8 chromedriver + 783608
+6   chromedriver                        0x00000001022e34e4 chromedriver + 505060
+7   chromedriver                        0x00000001022e3f5c chromedriver + 507740
+8   chromedriver                        0x000000010264b9b8 chromedriver + 4078008
+9   chromedriver                        0x0000000102650770 chromedriver + 4097904
+10  chromedriver                        0x000000010263255c chromedriver + 3974492
+11  chromedriver                        0x0000000102651088 chromedriver + 4100232
+12  chromedriver                        0x0000000102623b4c chromedriver + 3914572
+13  chromedriver                        0x0000000102671690 chromedriver + 4232848
+14  chromedriver                        0x000000010267180c chromedriver + 4233228
+15  chromedriver                        0x0000000102680558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/02-Apr-24 01:40:50::__main__::ERROR::Resume upload failed
+./logs/02-Apr-24 01:40:50::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/02-Apr-24 01:40:50::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="ca5b5d0feb2c551330ce823a4d6f692b", element="f.F60EE1B31468ADFCDB3B06C321F04957.d.F8D0ADC5D9FB8C3E8B1370DA64EC2F5E.e.9006")>
+./logs/02-Apr-24 01:40:51::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:40:52::__main__::INFO::Application Submitted
+./logs/02-Apr-24 01:40:52::__main__::INFO::
+Position 3876211679:
+ (5) Senior YSR Developer | Jobot | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/02-Apr-24 01:40:52::__main__::INFO::Applied to 3876211679

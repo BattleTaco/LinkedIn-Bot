@@ -1,0 +1,1419 @@
+./logs/01-Apr-24 02:57:42::__main__::INFO::{'phone_number': 8328369584, 'profile_path': '', 'positions': ['Data Scientist', 'Machine Learning Engineer'], 'locations': ['United States', 'Remote'], 'experience_level': ['Entry Level', 'Associate'], 'job_type': ['Full-time'], 'salary': 95000, 'rate': 45, 'uploads': {'Resume': 'C:\\Users\\michaelramirez\\Documents\\Michael Ramirez Resume.pdf'}, 'output_filename': ['output.csv']}
+./logs/01-Apr-24 02:57:42::__main__::INFO::Welcome to Easy Apply Bot
+./logs/01-Apr-24 02:57:42::__main__::INFO::current directory is : /Users/michaelramirez/Robot/LinkedIn-Easy-Apply-Bot
+./logs/01-Apr-24 02:57:42::__main__::INFO::89 jobIDs found
+./logs/01-Apr-24 02:57:44::__main__::INFO::Logging in.....Please wait :)  
+./logs/01-Apr-24 02:58:11::__main__::INFO::Applying to Data Scientist: Remote
+./logs/01-Apr-24 02:58:11::__main__::INFO::Looking for jobs.. Please wait..
+./logs/01-Apr-24 02:58:13::__main__::INFO::Loading next job page?
+./logs/01-Apr-24 02:58:21::__main__::INFO::Looking for jobs.. Please wait..
+./logs/01-Apr-24 02:58:21::__main__::INFO::59.0 minutes left in this search
+./logs/01-Apr-24 02:58:21::__main__::DEBUG::Sleeping for 1.6
+./logs/01-Apr-24 02:58:33::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 02:58:33::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 02:58:36::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 02:58:36::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 02:58:36::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 02:58:36::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.AB67D4F235E351BCF61564DD3DEAB694.e.524")>
+./logs/01-Apr-24 02:58:37::__main__::INFO::Application Submitted
+./logs/01-Apr-24 02:58:38::__main__::INFO::Application Submitted
+./logs/01-Apr-24 02:58:39::__main__::INFO::
+Position 3856016124:
+ (16) Prophet Developer | Insight Global | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 02:58:39::__main__::INFO::Applied to 3856016124
+./logs/01-Apr-24 02:58:45::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 02:58:45::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 02:58:49::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 02:58:49::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 02:58:49::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 02:58:49::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.EF8855E2E49FD36E919D6925E6DEE35B.e.617")>
+./logs/01-Apr-24 02:58:51::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 02:58:56::__main__::INFO::Skipping application
+./logs/01-Apr-24 02:58:57::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 02:59:02::__main__::INFO::Skipping application
+./logs/01-Apr-24 02:59:03::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 02:59:08::__main__::INFO::Skipping application
+./logs/01-Apr-24 02:59:09::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 02:59:15::__main__::INFO::Skipping application
+./logs/01-Apr-24 02:59:16::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 02:59:21::__main__::INFO::Skipping application
+./logs/01-Apr-24 02:59:22::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 02:59:27::__main__::INFO::Skipping application
+./logs/01-Apr-24 02:59:28::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 02:59:33::__main__::INFO::Skipping application
+./logs/01-Apr-24 02:59:34::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 02:59:39::__main__::INFO::Skipping application
+./logs/01-Apr-24 02:59:40::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 02:59:45::__main__::INFO::Skipping application
+./logs/01-Apr-24 02:59:47::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 02:59:52::__main__::INFO::Skipping application
+./logs/01-Apr-24 02:59:53::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 02:59:58::__main__::INFO::Skipping application
+./logs/01-Apr-24 02:59:59::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:00:04::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:00:05::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:00:10::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:00:11::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:00:16::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:00:17::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:00:23::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:00:24::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:00:29::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:00:30::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:00:35::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:00:36::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:00:41::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:00:42::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:00:47::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:00:48::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:00:53::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:00:54::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:01:00::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:01:01::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:01:06::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:01:07::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:01:12::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:01:13::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:01:18::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:01:19::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:01:24::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:01:25::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:01:30::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:01:31::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:01:37::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:01:38::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:01:43::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:01:44::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:01:49::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:01:50::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:01:55::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:01:56::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:02:01::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:02:02::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:02:07::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:02:09::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:02:14::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:02:15::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:02:20::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:02:21::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:02:26::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:02:27::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:02:32::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:02:33::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:02:38::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:02:39::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:02:44::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:02:46::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:02:51::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:02:52::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:02:57::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:02:58::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:03:03::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:03:04::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:03:09::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:03:10::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:03:15::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:03:16::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:03:22::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:03:23::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:03:28::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:03:29::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:03:34::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:03:35::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:03:40::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:03:41::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:03:46::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:03:47::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:03:52::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:03:54::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:03:59::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:04:00::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:04:05::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:04:06::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:04:11::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:04:12::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:04:17::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:04:18::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:04:23::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:04:24::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:04:30::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:04:31::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:04:36::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:04:37::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:04:42::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:04:43::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:04:48::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:04:49::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:04:54::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:04:55::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:05:00::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:05:02::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:05:07::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:05:08::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:05:13::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:05:14::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:05:19::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:05:20::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:05:25::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:05:26::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:05:31::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:05:32::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:05:37::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:05:39::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:05:44::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:05:45::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:05:50::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:05:51::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:05:56::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:05:57::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:06:02::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:06:03::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:06:08::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:06:10::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:06:15::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:06:16::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:06:21::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:06:22::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:06:27::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:06:28::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:06:33::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:06:34::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:06:39::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:06:40::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:06:46::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:06:47::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:06:52::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:06:53::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:06:58::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:06:59::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:07:04::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:07:05::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:07:10::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:07:11::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:07:16::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:07:18::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:07:23::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:07:24::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:07:29::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:07:30::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:07:35::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:07:36::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:07:41::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:07:42::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:07:47::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:07:48::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:07:54::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:07:55::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:08:00::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:08:01::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:08:06::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:08:07::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:08:12::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:08:13::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:08:18::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:08:19::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:08:24::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:08:26::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:08:31::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:08:32::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:08:37::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:08:38::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:08:43::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:08:44::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:08:49::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:08:50::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:08:55::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:08:56::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:09:02::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:09:03::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:09:08::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:09:09::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:09:14::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:09:15::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:09:20::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:09:21::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:09:26::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:09:27::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:09:33::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:09:34::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:09:39::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:09:40::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:09:45::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:09:46::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:09:51::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:09:52::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:09:57::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:09:58::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:10:03::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:10:05::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:10:10::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:10:11::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:10:16::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:10:17::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:10:22::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:10:23::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:10:28::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:10:29::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:10:34::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:10:35::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:10:40::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:10:42::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:10:47::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:10:48::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:10:53::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:10:54::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:10:59::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:11:00::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:11:05::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:11:06::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:11:11::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:11:13::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:11:18::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:11:19::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:11:24::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:11:25::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:11:30::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:11:31::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:11:36::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:11:37::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:11:42::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:11:43::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:11:49::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:11:50::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:11:55::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:11:56::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:12:01::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:12:02::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:12:07::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:12:08::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:12:13::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:12:14::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:12:19::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:12:21::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:12:26::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:12:27::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:12:32::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:12:33::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:12:38::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:12:39::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:12:44::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:12:45::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:12:50::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:12:51::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:12:57::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:12:58::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:13:03::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:13:04::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:13:09::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:13:10::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:13:15::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:13:16::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:13:21::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:13:22::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:13:27::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:13:29::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:13:34::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:13:35::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:13:40::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:13:41::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:13:46::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:13:47::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:13:52::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:13:53::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:13:58::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:13:59::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:14:05::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:14:06::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:14:11::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:14:12::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:14:17::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:14:18::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:14:23::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:14:24::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:14:29::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:14:30::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:14:35::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:14:37::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:14:42::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:14:43::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:14:48::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:14:49::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:14:54::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:14:55::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:15:00::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:15:01::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:15:06::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:15:07::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:15:13::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:15:14::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:15:19::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:15:20::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:15:25::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:15:26::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:15:31::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:15:32::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:15:37::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:15:38::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:15:44::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:15:45::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:15:50::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:15:51::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:15:56::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:15:57::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:16:02::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:16:03::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:16:08::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:16:09::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:16:14::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:16:16::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:16:21::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:16:22::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:16:27::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:16:28::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:16:33::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:16:34::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:16:39::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:16:40::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:16:45::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:16:46::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:16:52::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:16:53::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:16:58::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:16:59::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:17:04::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:17:05::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:17:10::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:17:11::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:17:16::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:17:17::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:17:22::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:17:23::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:17:29::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:17:30::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:17:35::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:17:36::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:17:41::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:17:42::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:17:47::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:17:48::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:17:53::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:17:54::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:17:59::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:18:01::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:18:06::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:18:07::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:18:12::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:18:13::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:18:18::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:18:20::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:18:22::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:18:22::__main__::INFO::
+Position 3866270064:
+ (16) Artificial Intelligence Engineer | Jackson Lewis P.C. | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:18:22::__main__::INFO::Applied to 3866270064
+./logs/01-Apr-24 03:18:29::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:18:29::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:18:33::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:18:33::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:18:33::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:18:33::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.D74BE4A62BBA3AC7557B7609FCF1FDD9.e.726")>
+./logs/01-Apr-24 03:18:35::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:18:37::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:18:37::__main__::INFO::
+Position 3855589808:
+ (16) Data Scientist | ReviveMed | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:18:37::__main__::INFO::Applied to 3855589808
+./logs/01-Apr-24 03:18:44::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:18:44::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:18:48::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:18:48::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:18:48::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:18:48::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.7D4551D39CE86571BEDDF040DC5F8BD4.e.837")>
+./logs/01-Apr-24 03:18:50::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:18:55::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:18:56::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:19:01::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:19:02::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:19:07::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:19:08::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:19:14::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:19:15::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:19:20::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:19:21::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:19:26::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:19:27::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:19:32::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:19:33::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:19:38::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:19:39::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:19:44::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:19:46::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:19:51::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:19:52::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:19:57::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:19:58::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:20:03::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:20:04::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:20:09::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:20:10::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:20:15::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:20:16::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:20:21::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:20:23::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:20:28::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:20:29::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:20:34::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:20:35::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:20:40::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:20:41::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:20:46::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:20:47::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:20:52::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:20:55::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:20:57::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:20:57::__main__::INFO::
+Position 3864166919:
+ (16) Data Scientist | Authenticate® | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:20:57::__main__::INFO::Applied to 3864166919
+./logs/01-Apr-24 03:21:04::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:21:04::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:21:07::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:21:07::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:21:07::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:21:07::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.B1894D57AF9C7FABC1B34D243CDF2DF0.e.941")>
+./logs/01-Apr-24 03:21:09::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:21:10::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:21:10::__main__::INFO::
+Position 3841061950:
+ (16) Quantitative Model Consultant | Bayforce | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:21:10::__main__::INFO::Applied to 3841061950
+./logs/01-Apr-24 03:21:17::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:21:17::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:21:20::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:21:20::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:21:20::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:21:20::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.8F5E87F4C74152ED355303C7F5554B61.e.1045")>
+./logs/01-Apr-24 03:21:23::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:21:28::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:21:29::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:21:34::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:21:35::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:21:40::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:21:41::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:21:46::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:21:47::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:21:52::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:21:54::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:21:59::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:22:00::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:22:05::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:22:06::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:22:11::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:22:12::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:22:17::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:22:18::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:22:23::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:22:24::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:22:29::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:22:31::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:22:36::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:22:37::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:22:42::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:22:43::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:22:48::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:22:49::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:22:54::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:22:55::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:23:00::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:23:01::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:23:03::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:23:03::__main__::INFO::
+Position 3875026716:
+ (16) Data Scientist & Backend Developer | Lumida Wealth | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:23:03::__main__::INFO::Applied to 3875026716
+./logs/01-Apr-24 03:23:09::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:23:09::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:23:13::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:23:13::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:23:13::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:23:13::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.B02C2791B657FA48867B2AC9BCA7317E.e.1158")>
+./logs/01-Apr-24 03:23:15::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:23:16::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:23:16::__main__::INFO::
+Position 3875923231:
+ (16) Data Scientist (Multi-Touch-Attribution) | Harnham | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:23:16::__main__::INFO::Applied to 3875923231
+./logs/01-Apr-24 03:23:23::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:23:23::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:23:26::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:23:26::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:23:26::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:23:26::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.2DD3B2EBEF3E9B507A74B3030335DC35.e.1256")>
+./logs/01-Apr-24 03:23:28::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:23:30::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:23:30::__main__::INFO::
+Position 3858176868:
+ (16) Machine Learning Engineer | Zest AI | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:23:30::__main__::INFO::Applied to 3858176868
+./logs/01-Apr-24 03:23:36::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:23:36::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:23:41::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:23:46::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:23:47::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:23:52::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:23:53::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:23:53::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:23:53::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:23:53::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.C497C2544397F22D060A7D9DB2F2AB0B.e.1367")>
+./logs/01-Apr-24 03:23:53::__main__::ERROR::'Cover Letter'
+./logs/01-Apr-24 03:23:53::__main__::ERROR::cannot apply to this job
+./logs/01-Apr-24 03:23:53::__main__::INFO::
+Position 3797303771:
+ (16) Senior Data Scientist | Upstart | LinkedIn 
+ *Did not apply: Failed to send Resume 
+
+./logs/01-Apr-24 03:23:53::__main__::INFO::Failed to apply to 3797303771
+./logs/01-Apr-24 03:24:00::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:24:00::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:24:04::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:24:04::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:24:04::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:24:04::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.99E5F9484F9584EFBCC022E2A0DE20B9.e.1442")>
+./logs/01-Apr-24 03:24:09::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:24:14::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:24:15::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:24:20::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:24:27::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:24:32::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:24:33::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:24:38::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:24:39::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:24:44::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:24:45::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:24:50::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:24:51::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:24:56::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:24:59::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:25:00::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:25:00::__main__::INFO::
+Position 3864392533:
+ (16) Data Scientist-FI Solutions | Vericast | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:25:00::__main__::INFO::Applied to 3864392533
+./logs/01-Apr-24 03:25:06::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:25:06::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:25:09::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:25:09::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:25:09::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:25:09::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.CF3AB983051FD0B69C08CD6F266D7D7D.e.1681")>
+./logs/01-Apr-24 03:25:09::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:25:10::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:25:10::__main__::INFO::
+Position 3854233511:
+ (16) Data Scientist | Henderson Scott | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:25:10::__main__::INFO::Applied to 3854233511
+./logs/01-Apr-24 03:25:11::__main__::INFO::Loading next job page?
+./logs/01-Apr-24 03:25:19::__main__::INFO::32.0 minutes left in this search
+./logs/01-Apr-24 03:25:19::__main__::DEBUG::Sleeping for 1.7
+./logs/01-Apr-24 03:25:31::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:25:31::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:25:35::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:25:35::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:25:35::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:25:35::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.7DE2A9A11A95CEEAD1FE64F81EAA95AA.e.1936")>
+./logs/01-Apr-24 03:25:37::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:25:42::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:25:43::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:25:44::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:25:44::__main__::INFO::
+Position 3689697895:
+ (16) Secret/Top Secret Cleared Senior Data Scientist | Harnham | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:25:44::__main__::INFO::Applied to 3689697895
+./logs/01-Apr-24 03:25:51::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:25:51::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:25:54::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:25:54::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:25:54::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:25:54::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.6CC75D700582150E2AC2FA011F853244.e.2036")>
+./logs/01-Apr-24 03:25:57::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:26:02::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:26:04::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:26:05::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:26:05::__main__::INFO::
+Position 3868105557:
+ (16) Data Scientist | Motion Recruitment | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:26:05::__main__::INFO::Applied to 3868105557
+./logs/01-Apr-24 03:26:12::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:26:12::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:26:15::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:26:15::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:26:15::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:26:15::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.E07EB9656F681F06B63287EA8C0B4B54.e.2149")>
+./logs/01-Apr-24 03:26:16::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:26:17::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:26:17::__main__::INFO::
+Position 3846138867:
+ (16) AI Engineer - LLM expert | CitiusTech | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:26:17::__main__::INFO::Applied to 3846138867
+./logs/01-Apr-24 03:26:24::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:26:24::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:26:27::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:26:27::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:26:27::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:26:27::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.5A313BCF78D7262669917A82F1A750CA.e.2247")>
+./logs/01-Apr-24 03:26:31::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:26:32::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:26:32::__main__::INFO::
+Position 3849961616:
+ (16) Senior Data Scientist | OM1, Inc. | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:26:32::__main__::INFO::Applied to 3849961616
+./logs/01-Apr-24 03:26:33::__main__::INFO::Loading next job page?
+./logs/01-Apr-24 03:26:41::__main__::INFO::31.0 minutes left in this search
+./logs/01-Apr-24 03:26:41::__main__::DEBUG::Sleeping for 2.5
+./logs/01-Apr-24 03:26:53::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:26:53::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:26:57::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:26:57::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:26:57::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:26:57::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.49830AE9BF60807705FCCD068000FB2C.e.2568")>
+./logs/01-Apr-24 03:26:59::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:27:04::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:27:07::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:27:08::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:27:08::__main__::INFO::
+Position 3864056202:
+ (16) Lead Python Developer | AG Foundry - Recruiting & Staffing | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:27:08::__main__::INFO::Applied to 3864056202
+./logs/01-Apr-24 03:27:15::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:27:15::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:27:18::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:27:18::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:27:18::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:27:18::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.367D1C96CAE7790F2110F9DFC774FC18.e.2678")>
+./logs/01-Apr-24 03:27:21::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:27:26::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:27:28::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:27:29::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:27:29::__main__::INFO::
+Position 3869956125:
+ (16) Machine Learning Actuary | Zendr | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:27:29::__main__::INFO::Applied to 3869956125
+./logs/01-Apr-24 03:27:36::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:27:36::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:27:38::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:27:38::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:27:38::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:27:38::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.8D97A9AE71AF15B3D49F13886BA621B3.e.2779")>
+./logs/01-Apr-24 03:27:38::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:27:39::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:27:39::__main__::INFO::
+Position 3873189879:
+ (16) Remote opportunity for P&C Insurance Data Scientist/Actuary - PR12690A | Pryor Associates Executive Search | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:27:39::__main__::INFO::Applied to 3873189879
+./logs/01-Apr-24 03:27:46::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:27:46::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:27:48::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:27:48::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:27:48::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:27:48::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.BD2F1FDFD4065B838AD4003B997988BA.e.2860")>
+./logs/01-Apr-24 03:27:48::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:27:49::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:27:49::__main__::INFO::
+Position 3830915699:
+ (16) Sr. MTS, ML Inference | Greylock | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:27:49::__main__::INFO::Applied to 3830915699
+./logs/01-Apr-24 03:27:56::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:27:56::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:28:00::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:28:00::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:28:00::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:28:00::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.DCC3FD4A5D3ED4CB2243DC07754F71AC.e.2938")>
+./logs/01-Apr-24 03:28:02::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:28:07::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:28:08::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:28:13::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:28:14::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:28:15::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:28:15::__main__::INFO::
+Position 3825598606:
+ (16) Manager of Data Science & Analytics | Burtch Works | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:28:15::__main__::INFO::Applied to 3825598606
+./logs/01-Apr-24 03:28:23::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:28:23::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:28:26::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:28:26::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:28:26::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:28:26::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.1D4314066DE7AB1A6A704294D1BD65A2.e.3041")>
+./logs/01-Apr-24 03:28:28::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:28:33::__main__::INFO::Skipping application
+./logs/01-Apr-24 03:28:34::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:28:35::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:28:35::__main__::INFO::
+Position 3785583792:
+ (16) Sr. Machine Learning Data Scientist | Burtch Works | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:28:35::__main__::INFO::Applied to 3785583792
+./logs/01-Apr-24 03:28:42::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:28:42::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:28:46::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:28:46::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:28:46::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:28:46::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.999862252AB7BDF3887F91DCC6212D5B.e.3143")>
+./logs/01-Apr-24 03:28:47::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:28:48::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:28:48::__main__::INFO::
+Position 3874300940:
+ (16) Data Scientist | Jobot | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:28:48::__main__::INFO::Applied to 3874300940
+./logs/01-Apr-24 03:28:55::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:28:55::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:28:58::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:28:58::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:28:58::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:28:58::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.4340505ABAAEE4409B016586D9961913.e.3249")>
+./logs/01-Apr-24 03:29:01::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:29:02::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:29:02::__main__::INFO::
+Position 3869766066:
+ (16) Data Scientist | Aditi Consulting | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:29:02::__main__::INFO::Applied to 3869766066
+./logs/01-Apr-24 03:29:09::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:29:09::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:29:12::__main__::ERROR::Message: element click intercepted: Element <button aria-label="Continue to next step" id="ember371" class="artdeco-button artdeco-button--2 artdeco-button--primary ember-view" data-easy-apply-next-button="" type="button">...</button> is not clickable at point (1049, 531). Other element would receive the click: <div data-test-modal-container="" data-test-modal-id="data-test-easy-apply-discard-confirmation" data-test-is-confirm-dialog="" aria-hidden="false" id="ember372" class="artdeco-modal-overlay artdeco-modal-overlay--layer-confirmation artdeco-modal-overlay--is-top-layer  ember-view">...</div>
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x000000010249c554 chromedriver + 574804
+4   chromedriver                        0x000000010249aad8 chromedriver + 568024
+5   chromedriver                        0x0000000102498c58 chromedriver + 560216
+6   chromedriver                        0x0000000102498188 chromedriver + 557448
+7   chromedriver                        0x000000010248d3ac chromedriver + 512940
+8   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+9   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+10  chromedriver                        0x000000010248b4e4 chromedriver + 505060
+11  chromedriver                        0x000000010248bf5c chromedriver + 507740
+12  chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+13  chromedriver                        0x00000001027f8770 chromedriver + 4097904
+14  chromedriver                        0x00000001027da55c chromedriver + 3974492
+15  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+16  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+17  chromedriver                        0x0000000102819690 chromedriver + 4232848
+18  chromedriver                        0x000000010281980c chromedriver + 4233228
+19  chromedriver                        0x0000000102828558 chromedriver + 4293976
+20  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+21  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:29:12::__main__::ERROR::cannot apply to this job
+./logs/01-Apr-24 03:29:12::__main__::INFO::
+Position 3816014705:
+ (16) NEW IN💥 Senior Data Engineer 🦸🏼‍♂️ Fast-paced ADTECH Start 🚀Salary up to $220k package + Equity📍100% REMOTE👨🏻‍💻 Tech: Python, Airflow, AWS and Snowflake❄️ | Data Revolution | LinkedIn 
+ *Did not apply: Failed to send Resume 
+
+./logs/01-Apr-24 03:29:12::__main__::INFO::Failed to apply to 3816014705
+./logs/01-Apr-24 03:29:19::__main__::INFO::The Easy apply button does not exist.
+./logs/01-Apr-24 03:29:19::__main__::INFO::
+Position 3874303666:
+ (16) Jobs | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Apr-24 03:29:19::__main__::INFO::Failed to apply to 3874303666
+./logs/01-Apr-24 03:29:26::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:29:26::__main__::INFO::Clicking the EASY apply button
+./logs/01-Apr-24 03:29:29::__main__::ERROR::Message: invalid argument: File not found : C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+  (Session info: chrome=123.0.6312.87)
+Stacktrace:
+0   chromedriver                        0x000000010283041c chromedriver + 4326428
+1   chromedriver                        0x00000001028288e4 chromedriver + 4294884
+2   chromedriver                        0x0000000102454088 chromedriver + 278664
+3   chromedriver                        0x0000000102490268 chromedriver + 524904
+4   chromedriver                        0x000000010248cdd0 chromedriver + 511440
+5   chromedriver                        0x00000001024cf4f8 chromedriver + 783608
+6   chromedriver                        0x000000010248b4e4 chromedriver + 505060
+7   chromedriver                        0x000000010248bf5c chromedriver + 507740
+8   chromedriver                        0x00000001027f39b8 chromedriver + 4078008
+9   chromedriver                        0x00000001027f8770 chromedriver + 4097904
+10  chromedriver                        0x00000001027da55c chromedriver + 3974492
+11  chromedriver                        0x00000001027f9088 chromedriver + 4100232
+12  chromedriver                        0x00000001027cbb4c chromedriver + 3914572
+13  chromedriver                        0x0000000102819690 chromedriver + 4232848
+14  chromedriver                        0x000000010281980c chromedriver + 4233228
+15  chromedriver                        0x0000000102828558 chromedriver + 4293976
+16  libsystem_pthread.dylib             0x000000018744e034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x0000000187448e3c thread_start + 8
+
+./logs/01-Apr-24 03:29:29::__main__::ERROR::Resume upload failed
+./logs/01-Apr-24 03:29:29::__main__::DEBUG::Resume: C:\Users\michaelramirez\Documents\Michael Ramirez Resume.pdf
+./logs/01-Apr-24 03:29:29::__main__::DEBUG::Resume Locator: <selenium.webdriver.remote.webelement.WebElement (session="b4eb508c630a950e4735731b66a382d0", element="f.F16C888F9D1779293BDA1F6952199011.d.57F021F51B1780F01D41E4C7C82F140E.e.3511")>
+./logs/01-Apr-24 03:29:32::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:29:33::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-Apr-24 03:29:38::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:29:39::__main__::INFO::Application Submitted
+./logs/01-Apr-24 03:29:39::__main__::INFO::
+Position 3816014890:
+ (16) Senior Actuarial Associate | Data Revolution | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-Apr-24 03:29:39::__main__::INFO::Applied to 3816014890
+./logs/01-Apr-24 03:29:46::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:29:46::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:29:46::__main__::INFO::The Easy apply button does not exist.
+./logs/01-Apr-24 03:29:46::__main__::INFO::
+Position 3874303662:
+ (16) Data Scientist | Jobot | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Apr-24 03:29:46::__main__::INFO::Failed to apply to 3874303662
+./logs/01-Apr-24 03:29:52::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:29:52::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:29:52::__main__::INFO::The Easy apply button does not exist.
+./logs/01-Apr-24 03:29:52::__main__::INFO::
+Position 3867511774:
+ (16) Senior Machine Learning Engineer | Storm6 | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Apr-24 03:29:52::__main__::INFO::Failed to apply to 3867511774
+./logs/01-Apr-24 03:29:59::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:29:59::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:29:59::__main__::INFO::The Easy apply button does not exist.
+./logs/01-Apr-24 03:29:59::__main__::INFO::
+Position 3874300945:
+ (16) Data Scientist | Jobot | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Apr-24 03:29:59::__main__::INFO::Failed to apply to 3874300945
+./logs/01-Apr-24 03:30:06::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:30:06::__main__::DEBUG::Easy Apply button not found
+./logs/01-Apr-24 03:30:06::__main__::INFO::The Easy apply button does not exist.
+./logs/01-Apr-24 03:30:06::__main__::INFO::
+Position 3863602836:
+ (16) Sr. Machine Learning Engineer (Search) | Greylock | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-Apr-24 03:30:06::__main__::INFO::Failed to apply to 3863602836
